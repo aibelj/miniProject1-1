@@ -16,7 +16,7 @@ The command to create a branch is *git branch <name>*
 **Merge**, or a git merge, refers to merging when you want to merge a branch, or more than one branch, into your branch. 
 The command to merge is *git merge <name>*
 
-**Checkout** refers to an action in GIT that allow you to 'checkout' a commit to see what the files looked like at that particular point in time; checking out a branch name points HEAD to it, and updates the file system accordingly.The command for checkout is git checkout <name>
+**Checkout** refers to an action in GIT that allow you to 'checkout' a commit to see what the files looked like at that particular point in time; checking out a branch name points HEAD to it, and updates the file system accordingly.The command for checkout is git checkout <name>
 
 **Push** refers to the transfer, of the changes you made, from your git repo to a remote git repo.  GitHub is an example of a remote git repo.
 
