@@ -46,7 +46,7 @@ while in COMMAND MODE are:
 + dd -> Delete the entire current line
 + :x -> The colon followed by a number would position the cursor on the line represented by x
 
-While in **COMAND MODE**, and you want to get in INSERT MODE, you can use the
+While in **COMMAND MODE**, and you want to get in INSERT MODE, you can use the
 following:
 
 + i -> At the cursor
